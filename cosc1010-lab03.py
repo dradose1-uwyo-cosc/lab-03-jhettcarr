@@ -4,10 +4,9 @@
 # Lab 03 
 # Lab Section: 15
 # Sources, people worked with, help given to: 
-# Kaleb Moler
 # Lecture notes
 # Online Python
-#Python Crash Course
+# Python Crash Course
 
 
 
