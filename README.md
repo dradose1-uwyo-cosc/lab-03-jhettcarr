@@ -2,10 +2,10 @@
 ## [Assignment #3]
 ## [Submission date: 09/24/2024]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Kaleb Moler
+* Online Python
+* Lecture Notes
+* Python Crash Course
 ## Project Quirks/ Things that don't work
 * example
 * example
